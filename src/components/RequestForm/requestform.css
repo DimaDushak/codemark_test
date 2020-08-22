@@ -1,0 +1,28 @@
+.margin {
+    margin: 0 5px;
+}
+
+.form {
+    display: flex;
+    flex-grow: 1;
+}
+
+.input {
+    flex-grow: 1;
+    margin-right: 5px;
+    padding-left: 10px;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+
+.imageItem {
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.image {
+    max-width: 255px;
+    cursor: pointer;
+}

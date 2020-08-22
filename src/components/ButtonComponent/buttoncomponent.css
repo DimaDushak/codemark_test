@@ -1,0 +1,17 @@
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
+
+.red {
+    background: red;
+}
+
+.button {
+    padding: 7.5px 9px;
+    color: white;
+    border-radius: 3px;
+}
